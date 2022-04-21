@@ -1,6 +1,7 @@
 # TodoListAppFe
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
+This is UI of TODO App project. See the [Backend](https://github.com/phatnt95/todo-list-app) using Spring Boot.
 
 ## Development server
 
