@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This is UI of TODO App project. See the [Backend](https://github.com/phatnt95/todo-list-app) using Spring Boot.
 
 ## Development server
-
+Clone project [backend](https://github.com/phatnt95/todo-list-app) and start.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
 ## Code scaffolding
